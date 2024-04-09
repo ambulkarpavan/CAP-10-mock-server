@@ -1,0 +1,24 @@
+{
+  "name": "cap-10-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambulkarpavan/CAP-10-mock-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambulkarpavan/CAP-10-mock-server/issues"
+  },
+  "homepage": "https://github.com/ambulkarpavan/CAP-10-mock-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
